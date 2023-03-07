@@ -22,7 +22,7 @@
 > 
 > - 🌱 I’m currently learning *NodeJS, regular JS & C*
 > 
-> - 📚 My proudest work is a program called [GPT](https://github.com/OskarLindgren/GeneralPurposeTools) A collection of General Purpose Tools
+> - 📚 My proudest work is a program called [GPT](https://github.com/OskarLindgren/GeneralPurposeTools) - a collection of General Purpose Tools
 > 
 > - 👨‍💻 All of my projects are available on my [Repos page](https://github.com/OskarLindgren?tab=repositories)
 > 
