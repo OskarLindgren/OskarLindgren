@@ -24,7 +24,7 @@
 > 
 > - 📚 My proudest work is a program called [GPT](https://github.com/OskarLindgren/GeneralPurposeTools) A collection of General Purpose Tools
 > 
-> - 👨‍💻 All of my projects are available at my [Repos page](https://github.com/OskarLindgren?tab=repositories)
+> - 👨‍💻 All of my projects are available on my [Repos page](https://github.com/OskarLindgren?tab=repositories)
 > 
 > - 💬 Feel free to ask me about any of my projects, I'd love to help you if you have any questions!
 > 
