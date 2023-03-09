@@ -35,7 +35,7 @@
 ---
 
 <!--Contact Info-->
-### <ins>Constact me</ins>:
+### <ins>Contact me</ins>:
 <p align="left">
 <!--Instagram-->
 <a href="https://instagram.com/https://www.instagram.com/oskaar.lindgren/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oskaar.lindgren/" height="30" width="40" /></a>
