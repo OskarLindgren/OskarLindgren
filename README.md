@@ -1,6 +1,6 @@
 <!--Title-->
 <h1 align="center">Welcome! I'm Oskar Lindgren</h1>
-<h3 align="center">Programing student in Sweden</h3>
+<h3 align="center">Programming student in Sweden</h3>
 
 <!--Trophies-->
 <p align="center">
@@ -18,9 +18,9 @@
 <!--Tid Bits-->
 ---
 
-> - 🔭 I’m currently working on an esoteric language called [Piccso](https://github.com/OskarLindgren/Piccso)
+> - 🔭 I’m currently working on an esoteric language called [Piccso](https://github.com/OskarLindgren/Piccso) aswell as [GPT](https://github.com/OskarLindgren/GeneralPurposeTools)
 > 
-> - 🌱 I’m currently learning *NodeJS, regular JS & C*
+> - 🌱 I’m currently learning *NodeJS, vanilla JS & C*
 > 
 > - 📚 My proudest work is a program called [GPT](https://github.com/OskarLindgren/GeneralPurposeTools) - a collection of General Purpose Tools
 > 
@@ -28,7 +28,7 @@
 > 
 > - 💬 Feel free to ask me about any of my projects, I'd love to help you if you have any questions!
 > 
-> - 📫 You're best option to contact me is **oskarlindgren05@outlook.com** or on instagram
+> - 📫 Your best options to contact me are by email at **oskarlindgren05@outlook.com** or on instagram
 > 
 > - ⚡ Fun fact My first ever program was written in a language called [GML](https://manual.yoyogames.com/GameMaker_Language/GML_Overview/GML_Overview.htm)
 
