@@ -20,7 +20,7 @@
 
 > - 🔭 I’m currently working on ~~an esoteric language called [Piccso](https://github.com/OskarLindgren/Piccso) aswell as~~ [GPT](https://github.com/OskarLindgren/GeneralPurposeTools)
 > 
-> - 🌱 I’m currently learning *Nothin as of now!*
+> - 🌱 I’m currently learning *Nothin as of now! Maybe I'll get started on Rust in a while*
 > 
 > - 📚 My proudest work is a program called [GPT](https://github.com/OskarLindgren/GeneralPurposeTools) - a collection of General Purpose Tools writen in python
 > 
@@ -31,6 +31,8 @@
 > - 📫 Your best options to contact me are by email at **oskarlindgren05@outlook.com**
 > 
 > - ⚡ Fun fact My first ever program was written in a language called [GML](https://manual.yoyogames.com/GameMaker_Language/GML_Overview/GML_Overview.htm)
+>
+> - 🎓 I have an [ITSC in python](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=471&cvid=ne6Zl47fpblFVGpVeHAP7Q==) from certiport! 
 
 ---
 
