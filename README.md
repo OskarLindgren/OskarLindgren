@@ -18,17 +18,17 @@
 <!--Tid Bits-->
 ---
 
-> - 🔭 I’m currently working on an esoteric language called [Piccso](https://github.com/OskarLindgren/Piccso) aswell as [GPT](https://github.com/OskarLindgren/GeneralPurposeTools)
+> - 🔭 I’m currently working on ~~an esoteric language called [Piccso](https://github.com/OskarLindgren/Piccso) aswell as~~ [GPT](https://github.com/OskarLindgren/GeneralPurposeTools)
 > 
-> - 🌱 I’m currently learning *NodeJS, vanilla JS & C*
+> - 🌱 I’m currently learning *Nothin as of now!*
 > 
-> - 📚 My proudest work is a program called [GPT](https://github.com/OskarLindgren/GeneralPurposeTools) - a collection of General Purpose Tools
+> - 📚 My proudest work is a program called [GPT](https://github.com/OskarLindgren/GeneralPurposeTools) - a collection of General Purpose Tools writen in python
 > 
 > - 👨‍💻 All of my projects are available on my [Repos page](https://github.com/OskarLindgren?tab=repositories)
 > 
 > - 💬 Feel free to ask me about any of my projects, I'd love to help you if you have any questions!
 > 
-> - 📫 Your best options to contact me are by email at **oskarlindgren05@outlook.com** or on instagram
+> - 📫 Your best options to contact me are by email at **oskarlindgren05@outlook.com**
 > 
 > - ⚡ Fun fact My first ever program was written in a language called [GML](https://manual.yoyogames.com/GameMaker_Language/GML_Overview/GML_Overview.htm)
 
@@ -37,8 +37,6 @@
 <!--Contact Info-->
 ### <ins>Contact me</ins>:
 <p align="left">
-<!--Instagram-->
-<a href="https://instagram.com/https://www.instagram.com/oskaar.lindgren/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oskaar.lindgren/" height="30" width="40" /></a>
 <!--Twitter-->
 <a href="https://twitter.com/oskaarlindgren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oskaarlindgren" height="30" width="40" /></a>
 <!--Linked in-->
