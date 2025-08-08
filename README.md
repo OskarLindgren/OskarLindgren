@@ -18,7 +18,7 @@
 <!--Tid Bits-->
 ---
 
-> - 🔭 I’m currently working on ~~an esoteric language called [Piccso](https://github.com/OskarLindgren/Piccso) aswell as~~ [GPT](https://github.com/OskarLindgren/GeneralPurposeTools)
+> - 🔭 I’m currently working on ~~an esoteric language called [Piccso](https://github.com/OskarLindgren/Piccso) aswell as~~ ~~[GPT](https://github.com/OskarLindgren/GeneralPurposeTools)~~ (school 😔)
 > 
 > - 🌱 I’m currently learning *Nothin as of now! Maybe I'll get started on Rust in a while*
 > 
